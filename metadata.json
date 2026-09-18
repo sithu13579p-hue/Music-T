@@ -1,0 +1,7 @@
+{
+  "name": "Myanmar Song Translator AI",
+  "description": "AI-powered song transcription and translation into natural Myanmar lyrics with synchronized playback and subtitle export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

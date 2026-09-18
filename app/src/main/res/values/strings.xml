@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Myanmar Song Translator AI</string>
+    <string name="app_tagline">AI-Powered Vocal Transcription &amp; Myanmar Translation</string>
+    <string name="upload_song">Upload Song</string>
+    <string name="drag_drop_hint">Select MP3, WAV, M4A or common audio formats</string>
+    <string name="copyright_notice">Notice: Please upload only audio you own, have permission to use, or content that is legally permitted. Translations remain private to your device.</string>
+    <string name="quick_samples">Quick Demo Songs:</string>
+    <string name="style_natural">Natural Myanmar</string>
+    <string name="style_literal">Literal Translation</string>
+    <string name="style_poetic">Emotional / Poetic Myanmar</string>
+    <string name="style_easy">Easy-to-understand Myanmar</string>
+    <string name="opt_keep_emotion">Keep original meaning and emotion</string>
+    <string name="btn_translate">Translate with AI</string>
+    <string name="step_analyzing">Analyzing Audio</string>
+    <string name="step_transcribing">Transcribing Vocals</string>
+    <string name="step_translating">Translating to Myanmar</string>
+    <string name="step_synchronizing">Synchronizing Subtitles</string>
+    <string name="col_original">ORIGINAL LYRICS</string>
+    <string name="col_myanmar">MYANMAR TRANSLATION</string>
+    <string name="export_copy_myanmar">Copy Myanmar Translation</string>
+    <string name="export_download_txt">Download TXT</string>
+    <string name="export_download_srt">Download SRT</string>
+    <string name="export_download_both">Download Original + Myanmar</string>
+    <string name="view_bilingual">Side by Side</string>
+    <string name="view_myanmar_only">Myanmar</string>
+    <string name="view_original_only">Original</string>
+    <string name="history_title">Saved Songs</string>
+    <string name="retry_action">Retry</string>
+</resources>
+
